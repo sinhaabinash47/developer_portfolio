@@ -42,11 +42,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React JS Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Vue JS Developer",
     icon: creator,
   },
 ];
@@ -198,12 +198,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Style Capsule",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "mern",
         color: "blue-text-gradient",
       },
       {
@@ -211,7 +211,11 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "bootstrap",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "materialui",
         color: "pink-text-gradient",
       },
     ],
